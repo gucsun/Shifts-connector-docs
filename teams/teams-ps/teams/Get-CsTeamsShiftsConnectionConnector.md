@@ -4,7 +4,7 @@ Module Name: MicrosoftTeams
 title: Get-CsTeamsShiftsConnectionConnector
 author: gucsun
 manager: navinth
-online version: https://docs.microsoft.com/powershell/module/teams/Get-CsTeamsShiftsConnectionConnector
+online version: https://docs.microsoft.com/powershell/module/teams/get-csteamsshiftsconnectionconnector
 schema: 2.3.4
 ---
 
