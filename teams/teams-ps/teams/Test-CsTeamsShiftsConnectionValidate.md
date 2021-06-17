@@ -4,7 +4,7 @@ Module Name: MicrosoftTeams
 title: Test-CsTeamsShiftsConnectionValidate
 author: gucsun
 manager: navinth
-online version: https://docs.microsoft.com/powershell/module/teams/Test-CsTeamsShiftsConnectionValidate
+online version: https://docs.microsoft.com/powershell/module/teams/test-csteamsshiftsconnectionvalidate
 schema: 2.3.4
 ---
 
