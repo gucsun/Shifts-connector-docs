@@ -4,7 +4,7 @@ Module Name: MicrosoftTeams
 title: Set-CsTeamsShiftsConnectionInstance
 author: gucsun
 manager: navinth
-online version: https://docs.microsoft.com/powershell/module/teams/Set-CsTeamsShiftsConnectionInstance
+online version: https://docs.microsoft.com/powershell/module/teams/set-csteamsshiftsconnectioninstance
 schema: 2.4.0
 ---
 
