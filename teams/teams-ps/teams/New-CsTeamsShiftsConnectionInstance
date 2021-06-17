@@ -1,7 +1,7 @@
 ---
 external help file: Microsoft.TeamsCmdlets.PowerShell.Custom.dll-Help.xml
 Module Name: MicrosoftTeams
-title: New-CsCustomPolicyPackage
+title: New-CsTeamsShiftsConnectionInstance
 author: gucsun
 manager: navinth
 online version: https://docs.microsoft.com/powershell/module/teams/New-CsTeamsShiftsConnectionInstance
