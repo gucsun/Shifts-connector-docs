@@ -4,7 +4,7 @@ Module Name: MicrosoftTeams
 title: New-CsTeamsShiftsConnectionInstance
 author: gucsun
 manager: navinth
-online version: https://docs.microsoft.com/powershell/module/teams/New-CsTeamsShiftsConnectionInstance
+online version: https://docs.microsoft.com/powershell/module/teams/new-csteamsshiftsconnectioninstance
 schema: 2.4.0
 ---
 
