@@ -30,7 +30,7 @@ This cmdlet shows the list of mapped teams inside the connection instance. Intan
 
 ### Example 1
 ```powershell
-PS C:\> Get-CsTeamsShiftsConnectionTeamMap -ConnectorInstanceId WCI-d1addd70-2684-4723-b8f2-7fa2230648c9
+PS C:\> Get-CsTeamsShiftsConnectionTeamMap -ConnectorInstanceId "WCI-d1addd70-2684-4723-b8f2-7fa2230648c9"
 ```
 
 Returns the list of team mappings in the instance with ID WCI-d1addd70-2684-4723-b8f2-7fa2230648c9.
@@ -46,7 +46,7 @@ Type: String
 Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
-Required: False
+Required: True
 Position: Named
 Default value: None
 Accept pipeline input: False
