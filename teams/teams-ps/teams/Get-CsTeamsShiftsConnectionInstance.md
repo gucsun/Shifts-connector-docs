@@ -5,7 +5,7 @@ title: Get-CsTeamsShiftsConnectionInstance
 author: gucsun
 manager: navinth
 online version: https://docs.microsoft.com/powershell/module/teams/get-csteamsshiftsconnectioninstance
-schema: 2.3.4
+schema: 2.4.0
 ---
 
 # Get-CsTeamsShiftsConnectionInstance
@@ -30,14 +30,14 @@ This cmdlet shows the list of connection instances that can be used to link team
 
 ### Example 1
 ```powershell
-PS C:\> Get-CsTeamsShiftsConnectionConnector
+PS C:\> Get-CsTeamsShiftsConnectionInstance
 ```
 
 Returns the list of connection instances.
 
 ### Example 2
 ```powershell
-PS C:\> Get-CsTeamsShiftsConnectionConnector -ConnectorInstanceId WCI-2302814d-f316-4d80-91cc-11508c24d51c
+PS C:\> Get-CsTeamsShiftsConnectionInstance -ConnectorInstanceId WCI-2302814d-f316-4d80-91cc-11508c24d51c
 ```
 
 Returns the connection instances with ID WCI-2302814d-f316-4d80-91cc-11508c24d51c.
@@ -54,6 +54,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 Required: False
+Position: Named
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
