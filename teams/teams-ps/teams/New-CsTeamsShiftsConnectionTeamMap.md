@@ -5,7 +5,7 @@ title: New-CsTeamsShiftsConnectionTeamMap
 author: gucsun
 manager: navinth
 online version: https://docs.microsoft.com/powershell/module/teams/new-csteamsshiftsconnectionteammap
-schema: 2.0.0
+schema: 2.4.0
 ---
 
 # New-CsTeamsShiftsConnectionTeamMap
@@ -47,6 +47,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 Required: True
+Position: Named
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
@@ -62,6 +63,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 Required: True
+Position: Named
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
@@ -77,6 +79,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 Required: True
+Position: Named
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
@@ -92,6 +95,7 @@ Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
 Required: True
+Position: Named
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
