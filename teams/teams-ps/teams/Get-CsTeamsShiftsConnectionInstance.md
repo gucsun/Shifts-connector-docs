@@ -53,7 +53,7 @@ Type: String
 Parameter Sets: (All)
 Aliases:
 Applicable: Microsoft Teams
-Required: True
+Required: False
 Default value: None
 Accept pipeline input: False
 Accept wildcard characters: False
